@@ -4,4 +4,4 @@ This project is about stock market analysis of Wall Street
 
 ## Background
 
-Becoming a programmer and Excel master! In this project I use VBA scripting to analyze real stock market data. 
+Becoming a programmer and Excel master! In this project I used VBA scripting to analyze real stock market data. 
