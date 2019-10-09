@@ -1,5 +1,7 @@
 # The VBA of Wall Street
 
+![stock Market](https://github.com/ofunkey/VBA/blob/master/stockmarket.jpg)
+
 ## Background
 
 In this work, I used VBA scripting to analyze real stock market data. 
@@ -12,9 +14,7 @@ In this work, I used VBA scripting to analyze real stock market data.
 
 * [Script](Multiple_year_stock_data.vb) - The scripts.
 
-### Stock market analyst
 
-![stock Market](https://github.com/ofunkey/VBA/blob/master/stockmarket.jpg)
 
 ### 
 
@@ -24,10 +24,13 @@ In this work, I used VBA scripting to analyze real stock market data.
 
 * See the result below:
 
+* Ticker symbol and volume for 2014 Multi Year Stock Data
 ![solution_2014](https://github.com/ofunkey/VBA/blob/master/2014_Multi_Year_Stock_Data.JPG)
 
+* Ticker symbol and volume for 2015 Multi Year Stock Data
 ![solution_2015](https://github.com/ofunkey/VBA/blob/master/2015_Multi_Year_Stock_Data.JPG)
 
+* Ticker symbol and volume for 2016 Multi Year Stock Data
 ![solution_2016](https://github.com/ofunkey/VBA/blob/master/2016_Multi_Year_Stock_Data.JPG)
 
 
